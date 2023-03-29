@@ -335,7 +335,7 @@ Megan Bowen has reported they are not receiving voicemails. Microsoft offers som
 
 5. On the left menu, select **show all**, then **Support** and under the support menu **New service request**.
 
-6. In the **Tell us about the problem so we can help you solve it** dialogue, enter **Diag: Voicemail** and press enter to jump straight to the voicemail diagnostics test.
+6. In the **Tell us about the problem so we can help you solve it** dialogue, enter **Diag: Voicemail** and press **Enter** to jump straight to the voicemail diagnostics test.
 
 7. You will see the following diagnostics test **We understand you are having issues with receiving voicemails in Teams**. Under Username or Email enter Megan Bowen’s Username and email.
 
