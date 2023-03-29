@@ -230,9 +230,9 @@ The Teams Network Assessment Tool is run from the command line. We will now run 
 
 4. The command prompt will appear.
 
-5. Type **cd C:\NetworkTest** and press enter, this changes our directory to the NetworkTest Directory.
+5. Type **cd C:\NetworkTest** and press **Enter**, this changes our directory to the NetworkTest Directory.
 
-6. Enter **NetworkAssessmentTool.exe** and press enter to run that program.
+6. Enter **NetworkAssessmentTool.exe** and press **Enter** to run that program.
 
 7. You will get a **Windows Defender Firewall Prompt;** Ensure Public networks is checked and select **Allow Access**.
 
@@ -260,9 +260,9 @@ The network quality check (performance test) is run with the NetworkAssessmentTo
 
 1. You are still signed in to MS720-CLIENT01 as “Admin” with the command prompt running.
 
-2. Enter **cd C:\NetworkTest** and press enter, this changes our directory to the NetworkTest Directory.
+2. Enter **cd C:\NetworkTest** and press **Enter**, this changes our directory to the NetworkTest Directory.
 
-3. Enter **NetworkAssessmentTool.exe /qualitycheck** and press enter to run that program.
+3. Enter **NetworkAssessmentTool.exe /qualitycheck** and press **Enter** to run that program.
 
 4. This will now run the test, you will see output come up on the command prompt, note you can see the **Loss Rate**, **Latency** and **Jitter** as the tests are performed.
 
