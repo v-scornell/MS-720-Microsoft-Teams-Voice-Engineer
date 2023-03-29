@@ -81,7 +81,7 @@ The lab number task, updates the o365ready.com DNS server with your lab's public
 
 1. In the **Old public IP address** box, type the previously used public IP address. If you did not write down your original public IP address, open a command prompt and try to ping your lab domain name. Although you will not receive a response, the domain name should resolve to IP.
 
-1. In the **New public IP address** box, type the new public IP address retrieved from Bing and then press Enter.
+1. In the **New public IP address** box, type the new public IP address retrieved from Bing and then press **Enter**.
 
 1. Select **Submit** and wait for the update to complete. This may take a couple of minutes.
 
