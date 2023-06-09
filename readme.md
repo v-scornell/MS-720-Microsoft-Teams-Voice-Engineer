@@ -1,3 +1,5 @@
+**This course will be retiring on  **2023/6/30**.  Once course is retired, all GitHub repos will be removed. Thank you.**
+
 # MS-720: Microsoft Teams Voice Engineer
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**

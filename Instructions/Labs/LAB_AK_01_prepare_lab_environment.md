@@ -20,6 +20,13 @@ You have just started the pilot project; therefore, in this first lab you will s
 
 ## Instructions
 
+### WWL Tenants - Terms of Use
+
+> [!IMPORTANT]
+> If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. 
+> Tenants should not be shared or used for purposes outside of hands-on labs. The tenant used in this course is a trial tenant and cannot be used or accessed after the class is over and are not eligible for extension.
+> Tenants must not be converted to a paid subscription. Tenants obtained as a part of this course remain the property of Microsoft Corporation and we reserve the right to obtain access and repossess at any time. 
+
 ## Exercise 1: Configure your lab environment
 
 ### Exercise Duration
@@ -101,7 +108,7 @@ In the following task you will execute a script to setup your lab environment.
 
 1. In the **Office 365 Admin username** box, enter your M365 tenant MOD Administrators account name. You can find your tenant username in the resource section on the right side of the lab window.
 
-1. In the **Office 365 Admin password** box, enter the MOD Administrators password, provided to you.
+1. In the **Office 365 Admin password** box, enter the MOD Administrator's password, provided to you.
 
 1. In the **5-digit lab number** box, enter your lab number from the previous task and select **Verify**.
 
@@ -307,7 +314,7 @@ As an admin, you can assign the calling plan license that gives users the right 
 
 1. Deselect **Automatically create a password** and **Require this user to change their password when they first sign in**.
 
-1. Enter a password that meets the complexity requirements and you will remember for later in the lab, e.g. the password of your Microsoft 365 tenant administrator.
+1. Enter the MOD Administrator password in the _“Resource”_ section on the right side of the lab window.
 
 1. Press **Reset password**.
 

@@ -134,7 +134,7 @@ In the following task you will create the new session boarder controller resourc
 
 	- **Username:** sbcadmin
 
-	- **Password:** P@55w.rd1234
+	- **Password:** *Enter the MOD Administrator password in the _“Resource”_ section on the right side of the lab window.*
 
 10. Select **Review + Create** (If you see a "Validation failed" message, you need to select **Previous** and select **Review + Create** again).
 
@@ -159,7 +159,7 @@ In the following task you will create the new session boarder controller resourc
 
 	- **User name:** Administrator
 
-	- **Password:** Enter the default Admin password in the “Resource” section on the right side of the lab window.
+	- **Password:** *Enter the default Admin password from the _“Resource”_ section on the right side of the lab window. DO NOT enter the MOD Administrator's account password.*
 
 18. Once the module is installed you will see the command prompt again.
 
@@ -243,7 +243,7 @@ In the following task you will upload the lab certificate you requested earlier.
 
 1. In the Change Certificates window, scroll down to the **UPLOAD CERTIFICATE FILES FROM YOUR COMPUTER** section.
 
-1. In the **Private key pass-phrase (optional)** box, enter the default Admin password in the “Resource” section on the right side of the lab window.
+1. In the **Private key pass-phrase (optional)** box, *Enter the default Admin password from the _“Resource”_ section on the right side of the lab window. DO NOT enter the MOD Administrator's account password.*
  
 1. Under **Send Private Key file from your computer to the device**, select **Load Private Key File**.  
 
