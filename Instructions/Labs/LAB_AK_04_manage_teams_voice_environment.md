@@ -333,7 +333,7 @@ Megan Bowen has reported they are not receiving voicemails. Microsoft offers som
 
 4. Find Megan Bowen and note down their username and email address, you will need it to run the test. Note this is one value in the format MeganB@lab<customlabnumber\>.o365ready.com
 
-5. On the left menu, select **show all**, then **Support** and under the support menu **New service request**.
+5. On the left menu, select **show all**, then **Support** and under the support menu **Help & Support**.
 
 6. In the **Tell us about the problem so we can help you solve it** dialogue, enter **Diag: Voicemail** and press enter to jump straight to the voicemail diagnostics test.
 
@@ -501,7 +501,7 @@ Users can check on the network performance of their calls live during the call. 
 
 8. The call should establish and you should hear a Microsoft support virtual agent.
 
-9. While in the call, press the three dots in the top right of the Teams client and select call health.
+9. While in the call, press the three dots in the top right of the Teams client, select settings and select call health.
 
 10. You will see a right-hand menu with the network and audio performance.
 
@@ -681,7 +681,7 @@ In this task you open and review Call Quality Dashboard
 
 1. You are still signed into MS720-CLIENT01 as “Admin” and in the **Microsoft Teams admin center** as **MOD Administrator**.
 
-2. At the bottom of the left menu, select **Call Quality Dashboard**.
+2. At the bottom of the left menu, select **Analytics & reports** then select **Call Quality Dashboard**.
 
 3. This will cause a new browser tab to open going to [https://cqd.teams.microsoft.com/](https://cqd.teams.microsoft.com/).
 
