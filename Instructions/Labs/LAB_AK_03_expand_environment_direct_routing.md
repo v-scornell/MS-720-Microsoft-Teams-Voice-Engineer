@@ -187,7 +187,7 @@ You have successfully created an SBC hosted inside Microsoft Azure.
 
 	- **Username:** sbcadmin
 
-	- **Password:** P@55w.rd1234
+	- **Password:** *Enter the MOD Administrator password in the _“Resource”_ section on the right side of the lab window.*
 
 You have successfully logged onto the SBC.
 
